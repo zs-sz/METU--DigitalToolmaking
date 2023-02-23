@@ -1,8 +1,12 @@
 # Digital Toolmaking
 
-#### Various Tools and Resources for Digital Design & Art
+## INSTALL/TELEPÍTSD
+https://processing.org/download
+https://www.blender.org/download/
 
-## WEB:
+# REFERENCE/REFERENCIÁK:
+
+## WEB: 
 
 html, css, javascript, canvas2D/3D and all that is browser
 
