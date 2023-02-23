@@ -1,8 +1,8 @@
 # Digital Toolmaking
 
 ## INSTALL/TELEPÍTSD
-https://processing.org/download
-https://www.blender.org/download/
+- https://processing.org/download
+- https://www.blender.org/download/
 
 # REFERENCE/REFERENCIÁK:
 
