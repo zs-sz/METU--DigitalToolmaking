@@ -16,7 +16,6 @@
 - https://www.youtube.com/watch?v=8FCHcbpnFss
 
 
-
 ## GEOMETRY NODES ADVANCED VIDEOS: 
 - https://www.youtube.com/@CartesianCaramel/videos 
 - https://www.youtube.com/@Erindale (blender contributor)
