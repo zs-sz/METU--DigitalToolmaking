@@ -1,7 +1,4 @@
-beadando 
-
-
-# I. Tilemap (rectangular 3D or 2D)
+# (EN) I. Tilemap (rectangular 3D or 2D)
 
 ### Description
 
@@ -40,4 +37,48 @@ II. Trimsheet Texture on Exponential Grid (dream uv extension)
 ### NO-NO
 
 - DO NOT USE any kind of external resources directly (stock and/or downloaded materials). 
+
+
+////////////////////////////////////////////////////
+
+
+# I. Csempekészlet ( téglalap alapú 3D or 2D)
+
+### Leírás:
+
+- Készíts egy minimum hat elemből álló csempe készletet, amelyek legalább két oldalról illeszthetőek egymáshoz. 
+- Az elemek mérete nincs meghatározva (csak legyenek egyformák)
+
+### Beküldendő elemek:
+
+- hat .png per készlet 
+- vagy hat 3D model 
+- egy full hd (1920x1080) render a hat elemmel egy 3x2es rácson 
+- Egy vagy több elem (1920x1080) blenderből renderelve (video jon szerdan)
+- 3,4 mondatnyi leírás (whys and whats)
+
+
+# II. "Trimsheet" Textúra, Exponenciális rácson (dream uv kiegészítő)
+
+- Készíts minimum 3 textúrát ami kompatibilis a dreamUV n. kiegészítővel
+- see examples here (https://github.com/zs-sz/METU--DigitalToolmaking/blob/master/blender/final_beadando/dreamUV/pelda_example_atlas.png)
+
+### Beküldendő elemek:
+
+- 3 textúra, 2048 x 2048 méretben 
+- 3 render a peldafile alapjám
+
+
+### Pozitívumok osztályozásnál
+- mennyire "okos" a szélek találkozása
+- a grafikai kivitelezés minősége
+
+
+### NO-NO
+
+- NE(!!!!) használj mások által készített elemeket (stock, net, stb).
+
+
+
+
 
